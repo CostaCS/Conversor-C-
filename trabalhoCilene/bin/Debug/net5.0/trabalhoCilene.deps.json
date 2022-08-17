@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "trabalhoCilene/1.0.0": {
+        "runtime": {
+          "trabalhoCilene.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabalhoCilene/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

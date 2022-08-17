@@ -1,0 +1,16 @@
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\bin\Debug\net5.0\trabalhoCilene.exe
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\bin\Debug\net5.0\trabalhoCilene.deps.json
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\bin\Debug\net5.0\trabalhoCilene.runtimeconfig.json
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\bin\Debug\net5.0\trabalhoCilene.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\bin\Debug\net5.0\trabalhoCilene.dll
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\bin\Debug\net5.0\ref\trabalhoCilene.dll
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\bin\Debug\net5.0\trabalhoCilene.pdb
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\obj\Debug\net5.0\trabalhoCilene.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\obj\Debug\net5.0\trabalhoCilene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\obj\Debug\net5.0\trabalhoCilene.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\obj\Debug\net5.0\trabalhoCilene.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\obj\Debug\net5.0\trabalhoCilene.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\obj\Debug\net5.0\trabalhoCilene.dll
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\obj\Debug\net5.0\ref\trabalhoCilene.dll
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\obj\Debug\net5.0\trabalhoCilene.pdb
+C:\Users\Pichau\source\repos\trabalhoCilene\trabalhoCilene\obj\Debug\net5.0\trabalhoCilene.genruntimeconfig.cache

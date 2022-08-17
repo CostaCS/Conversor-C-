@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2WTe2I9oprO0ZtlrnAzaq8nkFFQxVySYqDuKxvWbKd3lAiAjn+LtanZ8duEurPUgDGvlg1Tq9qPaEsLAAIYtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\source\\repos\\trabalhoCilene\\trabalhoCilene\\trabalhoCilene.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
